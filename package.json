@@ -1,0 +1,20 @@
+{
+  "name": "example-zero-build-webapp",
+  "version": "1.0.0",
+  "description": "An example zero build setup for prototyping web apps",
+  "main": "src/index.html",
+  "scripts": {
+    "serve": "npx http-server src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewbridge/example-zero-build-webapp.git"
+  },
+  "author": "Andrew Bridge <andrew@andrewhbridge.co.uk>",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/andrewbridge/example-zero-build-webapp/issues"
+  },
+  "homepage": "https://github.com/andrewbridge/example-zero-build-webapp#readme"
+}
